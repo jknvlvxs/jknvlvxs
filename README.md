@@ -64,7 +64,7 @@
 
 **High School** 
 
-[**CEFET-MG**](https://www.cefetmg.br) • Ensino Médio integrado com Curso Técnico em Informática \
+[**CEFET-MG**](https://www.cefetmg.br) • Ensino Médio integrado com Curso Técnico em Informática 
 
 2016 • 2018
 
@@ -81,7 +81,7 @@
 
 **Graduation** 
 
-[**Universidade Federal de Viçosa**](https://www.ufv.br) • Graduação em Ciência da Computação \
+[**Universidade Federal de Viçosa**](https://www.ufv.br) • Graduação em Ciência da Computação 
 
 2020 • Currently
 
