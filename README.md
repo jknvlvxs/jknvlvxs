@@ -56,13 +56,13 @@
 </div>
   
 
-## 🎓Academic Education
+## 🎓 Academic Education
 
 [<img align="left" height="94px" width="94px" alt="CEFET" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/600px-Logo_CEFET-MG.png"/>](https://www.cefetmg.br)
 
   
 
-**High School** \
+**High School** 
 
 [**CEFET-MG**](https://www.cefetmg.br) • Ensino Médio integrado com Curso Técnico em Informática \
 
@@ -79,7 +79,7 @@
 
   
 
-**Graduation** \
+**Graduation** 
 
 [**Universidade Federal de Viçosa**](https://www.ufv.br) • Graduação em Ciência da Computação \
 
