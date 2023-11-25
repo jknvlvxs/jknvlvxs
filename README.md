@@ -7,6 +7,7 @@
   
 
 > 🧑‍💻 Currently working in *web development* and *mobile development*
+
 > 🔭 Passionate about artificial intelligence, game development, and data science.
 
   
