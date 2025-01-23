@@ -90,7 +90,7 @@
 
 [**Universidade Federal de Viçosa**](https://www.ufv.br) • Graduação em Ciência da Computação 
 
-2020 • Currently
+2020 • 2025
 
   
 
