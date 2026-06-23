@@ -65,7 +65,7 @@
 
 ## 🎓 Academic Education
 
-[<img align="left" height="94px" width="94px" alt="CEFET" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/600px-Logo_CEFET-MG.png"/>](https://www.cefetmg.br)
+[<img align="left" height="94px" width="94px" alt="CEFET" src="https://www.cefetmg.br/wp-content/uploads/2019/06/logo_rodape.png"/>](https://www.cefetmg.br)
 
   
 
